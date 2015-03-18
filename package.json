@@ -1,0 +1,36 @@
+{
+  "name": "sails-hook-jwt",
+  "description": "JSONWebtoken support for your Sails Application.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
+    "url": "https://github.com/Kikobeats"
+  },
+  "bugs": {
+    "url": "https://github.com/Kikobeats/sails-hook-jwt/issues"
+  },
+  "dependencies": {
+    "express-jwt": "^2.1.0"
+  },
+  "devDependencies": {
+    "sails": "~0.11.0",
+    "should": "*",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "homepage": "https://github.com/Kikobeats/sails-hook-jwt",
+  "keywords": ["sails", "hook", "jwt", "jsonwebtoken", "token"],
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": "Kikobeats/sails-hook-jwt",
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "sails": {
+    "isHook": true
+  }
+}
