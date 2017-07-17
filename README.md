@@ -1,5 +1,7 @@
 # sails-hook-jwt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/sails-hook-jwt.svg)](https://greenkeeper.io/)
+
 [![Build Status](http://img.shields.io/travis/Kikobeats/sails-hook-jwt/master.svg?style=flat)](https://travis-ci.org/Kikobeats/sails-hook-jwt)
 [![Dependency status](http://img.shields.io/david/Kikobeats/sails-hook-jwt.svg?style=flat)](https://david-dm.org/Kikobeats/sails-hook-jwt)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/sails-hook-jwt.svg?style=flat)](https://david-dm.org/Kikobeats/sails-hook-jwt#info=devDependencies)
