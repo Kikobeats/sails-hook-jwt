@@ -11,10 +11,10 @@
     "url": "https://github.com/Kikobeats/sails-hook-jwt/issues"
   },
   "dependencies": {
-    "express-jwt": "^2.1.0"
+    "express-jwt": "^5.3.0"
   },
   "devDependencies": {
-    "sails": "~0.11.0",
+    "sails": "~0.12.13",
     "should": "*",
     "mocha": "*"
   },
